@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-08T08:30:26+00:00
+
+====== CSS Media Queries ======
+Created Wednesday 08 November 2017
+
+Media queries are useful when you want to apply CSS styles depending on a device's general type (such as print vs. screen), specific characteristics (such as the width of the browser viewport), or environment (such as ambient light conditions). With the huge variety of internet-connected devices available today, media queries are a vital tool for building websites and apps that are robust enough to work on whatever hardware your users have.
+
+--------------------
+
+* [[https://www.w3schools.com/css/css3_mediaqueries.asp|CSS3 Media Queries]]
+* [[https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries|Using media queries]]
+* [[https://www.w3schools.com/cssref/css3_pr_mediaquery.asp|CSS3 @media Rule]]
+* [[https://www.w3schools.com/css/css_rwd_mediaqueries.asp|Responsive Web Design - Media Queries]]
+* [[https://www.w3schools.com/css/css3_mediaqueries_ex.asp|CSS3 Media Queries - Examples]]
+* [[https://css-tricks.com/snippets/css/media-queries-for-standard-devices/|Media Queries for Standard Devices]]
+	* [[http://cssmediaqueries.com/|CSS Media Queries]]
+		* [[http://cssmediaqueries.com/what-are-css-media-queries.html|What are CSS Media Queries and how to implement them]]
+		* [[http://cssmediaqueries.com/realtime-testing.html|Realtime testing of CSS Media Queries]]
+	* [[https://responsivedesign.is/articles/why-you-dont-need-device-specific-breakpoints/|Why you don’t need device specific breakpoints]]
+* [[https://css-tricks.com/css-media-queries/|CSS Media Queries & Using Available Space]]
+* [[https://www.w3.org/TR/css3-mediaqueries/|Media Queries W3C]]
+* [[https://www.emailonacid.com/blog/article/email-development/emailology_media_queries_demystified_min-width_and_max-width|Media Queries Demystified: CSS Min-Width and Max-Width]]
+* [[http://learnlayout.com/media-queries.html|Learn CSS Layout - media queries]]

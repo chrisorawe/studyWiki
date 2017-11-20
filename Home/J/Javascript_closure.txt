@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-14T20:13:39+00:00
+
+====== Javascript closure ======
+Created Tuesday 14 November 2017
+
+JavaScript variables can belong to the local or global scope.
+Global variables can be made local (private) with closures.
+
+* [[https://www.w3schools.com/js/js_function_closures.asp|JavaScript Closures W3S]]
+* [[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures|Closures MDN]] <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+* [[http://javascriptissexy.com/understand-javascript-closures-with-ease/|Understand JavaScript Closures With Ease]]
+* [[https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36|Master the JavaScript Interview: What is a Closure?]]
+* [[https://www.sitepoint.com/javascript-closures-demystified/|JavaScript Closures Demystified]]
+* [[https://medium.freecodecamp.org/lets-learn-javascript-closures-66feb44f6a44|Let’s Learn JavaScript Closures]]
+* [[https://medium.freecodecamp.org/whats-a-javascript-closure-in-plain-english-please-6a1fc1d2ff1c|What’s a JavaScript closure? In plain English, please.]]
+* [[https://javascript.info/closure|Closure]]
+* [[http://www.javascriptkit.com/javatutors/closures.shtml|JavaScript Closures 101- they're not magic]]

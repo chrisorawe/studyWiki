@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-16T08:51:39+00:00
+
+====== Javascript event delegation ======
+Created Thursday 16 November 2017
+
+One of the hot methodologies in the JavaScript world is event delegation, and for good reason.  Event delegation allows you to avoid adding event listeners to specific nodes;  instead, the event listener is added to one parent.  That event listener analyzes bubbled events to find a match on child elements.  The base concept is fairly simple but many people don't understand just how event delegation works.  Let me explain the how event delegation works and provide pure JavaScript example of basic event delegation.
+
+* [[https://davidwalsh.name/event-delegate|How JavaScript Event Delegation Works]]
+* [[https://www.sitepoint.com/javascript-event-delegation-is-easier-than-you-think/|JavaScript Event Delegation is Easier than You Think]]
+* [[https://javascript.info/event-delegation|Event delegation]]
+* [[http://bdadam.com/blog/plain-javascript-event-delegation.html|Plain JavaScript event delegation]]
+* [[https://medium.com/@bretdoucette/part-4-what-is-event-delegation-in-javascript-f5c8c0de2983|Part 4: What is Event Delegation in JavaScript?]]
+* [[https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events|Introduction to events]]
+* [[https://code.tutsplus.com/tutorials/quick-tip-javascript-event-delegation-in-4-minutes--net-8961|Quick Tip: JavaScript Event Delegation in 4 Minutes]]
+* [[https://codepen.io/32bitkid/post/understanding-delegated-javascript-events|Understanding Delegated JavaScript Events]]

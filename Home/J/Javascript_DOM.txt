@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-09T20:06:33+00:00
+
+====== Javascript DOM ======
+Created Thursday 09 November 2017
+
+With the HTML DOM, JavaScript can access and change all the elements of an HTML document.
+
+When a web page is loaded, the browser creates a Document Object Model of the page.
+
+--------------------
+
+* [[https://www.w3schools.com/js/js_htmldom.asp|JavaScript HTML DOM]]
+* [[https://www.w3schools.com/jsref/dom_obj_document.asp|The HTML DOM Document Object]]
+* [[https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction|Introduction to the DOM]]
+* [[https://www.tutorialspoint.com/javascript/javascript_html_dom.htm|JavaScript - Document Object Model or DOM]]
+* [[https://eloquentjavascript.net/13_dom.html|The Document Object Model]]
+* [[https://en.wikipedia.org/wiki/Document_Object_Model|Document Object Model]]
+* [[https://javascript.info/dom-nodes|DOM tree]]

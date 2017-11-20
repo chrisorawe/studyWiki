@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-09-25T13:13:46+01:00
+
+====== Study ======
+
+===== A =====
+* [[https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c|A Guide to Becoming a Full-Stack Developer in 2017]]
+* [[+A:Agile|Agile]]
+
+===== C =====
+* [[+C:CSS box model|CSS box model]]
+* [[+C:CSS Media Queries|CSS Media Queries]]
+* [[+C:CSS Pre-Processors|CSS Pre-Processors]]
+
+===== F =====
+* [[+F:Function Composition|Function Composition]]
+
+===== J =====
+* [[+J:Javascript|Javascript]]
+* [[+J:Javascript closure|Javascript closure]]
+* [[+J:Javascript DOM|Javascript DOM]]
+* [[+J:Javascript event delegation|Javascript event delegation]]
+* [[+J:Javascript functions|Javascript functions]]
+* [[+J:Javascript prototypal inheritance|Javascript prototypal inheritance]]
+* [[+J:JSON|JSON]]
+
+===== S =====
+* [[+S:SCRUM|SCRUM]]
+* [[+S:Semantic HTML|Semantic HTML]]

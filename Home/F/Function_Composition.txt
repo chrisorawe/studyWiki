@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-13T08:19:38+00:00
+
+====== Function Composition ======
+Created Monday 13 November 2017
+
+Function composition is the process of combining two or more functions to produce a new function. Composing functions together is like snapping together a series of pipes for our data to flow through.
+
+--------------------
+
+* [[https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0|Master the JavaScript Interview: What is Function Composition?]]
+* [[https://en.wikipedia.org/wiki/Function_composition_(computer_science)|Function composition (computer science)]]
+* [[https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c|The Rise and Fall and Rise of Functional Programming (Composing Software)]]
+	* [[https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257|Part 2]]
+	* [[https://medium.com/javascript-scene/a-functional-programmers-introduction-to-javascript-composing-software-d670d14ede30|Part 3]]

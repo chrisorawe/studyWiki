@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-10T08:26:14+00:00
+
+====== Javascript ======
+Created Friday 10 November 2017
+
+* [[https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36|Master the JavaScript Interview]]
+* [[http://javascriptissexy.com/16-javascript-concepts-you-must-know-well/|16 JavaScript Concepts JavaScript Professionals Must Know Well]]
+	* [[http://javascriptissexy.com/javascript-objects-in-detail/|JavaScript Objects in Detail]]
+
+

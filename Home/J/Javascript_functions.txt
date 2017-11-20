@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-16T20:15:15+00:00
+
+====== Javascript functions ======
+Created Thursday 16 November 2017
+
+* [[https://www.w3schools.com/js/js_functions.asp|JavaScript Functions W3S]]
+* [[https://www.w3schools.com/js/js_function_definition.asp|JavaScript Function Definitions W3S]]
+* [[https://www.w3schools.com/js/js_function_parameters.asp|JavaScript Function Parameters W3S]]
+* [[https://www.w3schools.com/js/js_function_invocation.asp|JavaScript Function Invocation W3S]]
+* [[https://www.w3schools.com/js/js_function_call.asp|JavaScript Function Call W3S]]
+* [[https://www.w3schools.com/js/js_function_apply.asp|JavaScript Function Apply W3S]]
