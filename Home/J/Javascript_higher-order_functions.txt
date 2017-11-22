@@ -5,7 +5,7 @@ Creation-Date: 2017-11-22T09:01:27+00:00
 ====== Javascript higher-order functions ======
 Created Wednesday 22 November 2017
 
-* [[https://eloquentjavascript.net/05_higher_order.html|Higher-Order Functions]]
+* [[https://eloquentjavascript.net/05_higher_order.html|Higher-Order Functions]]	<<<
 * [[https://medium.com/humans-create-software/a-dirt-simple-introduction-to-higher-order-functions-in-javascript-b33bf9e19056|A dirt simple introduction to higher order functions in JavaScript]]
 * [[https://www.sitepoint.com/higher-order-functions-javascript/|Higher-Order Functions in JavaScript]]
 * [[http://javascriptissexy.com/tag/higher-order-functions/|Understand JavaScript Callback Functions and Use Them]]

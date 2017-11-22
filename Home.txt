@@ -24,7 +24,7 @@ Creation-Date: 2017-09-25T13:13:46+01:00
 * [[+J:Javascript functions|Javascript functions]]
 * [[+J:Javascript higher-order functions|Javascript higher-order functions]]
 * [[+J:Javascript prototypal inheritance|Javascript prototypal inheritance]]
-* [[+J:Javascript scope|Javascript scope]]						<<<
+* [[+J:Javascript scope|Javascript scope]]
 * [[+J:JSON|JSON]]
 
 ===== S =====

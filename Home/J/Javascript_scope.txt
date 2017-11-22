@@ -6,7 +6,7 @@ Creation-Date: 2017-11-21T19:39:14+00:00
 Created Tuesday 21 November 2017
 
 * [[https://www.w3schools.com/js/js_scope.asp|JavaScript Scope]]
-* [[https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/|Everything you wanted to know about JavaScript scope]]	<<<
+* [[https://toddmotto.com/everything-you-wanted-to-know-about-javascript-scope/|Everything you wanted to know about JavaScript scope]]
 * [[https://scotch.io/tutorials/understanding-scope-in-javascript|Understanding Scope in JavaScript]]
 * [[https://www.sitepoint.com/demystifying-javascript-variable-scope-hoisting/|Demystifying JavaScript Variable Scope and Hoisting]]
 * [[https://css-tricks.com/javascript-scope-closures/|JavaScript Scope and Closures]]
