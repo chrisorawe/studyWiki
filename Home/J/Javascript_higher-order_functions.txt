@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-22T09:01:27+00:00
+
+====== Javascript higher-order functions ======
+Created Wednesday 22 November 2017
+
+* [[https://eloquentjavascript.net/05_higher_order.html|Higher-Order Functions]]
+* [[https://medium.com/humans-create-software/a-dirt-simple-introduction-to-higher-order-functions-in-javascript-b33bf9e19056|A dirt simple introduction to higher order functions in JavaScript]]
+* [[https://www.sitepoint.com/higher-order-functions-javascript/|Higher-Order Functions in JavaScript]]
+* [[http://javascriptissexy.com/tag/higher-order-functions/|Understand JavaScript Callback Functions and Use Them]]
+* [[https://medium.freecodecamp.org/higher-order-functions-in-javascript-d9101f9cf528|Higher Order Functions: Using Filter, Map and Reduce for More Maintainable Code]]
+* [[https://www.lullabot.com/articles/higher-order-functions-in-javascript|Higher Order Functions in JavaScript]]
+* [[https://hackernoon.com/effective-functional-javascript-first-class-and-higher-order-functions-713fde8df50a|Effective Functional JavaScript: First-class and Higher Order Functions]]
+* [[https://www.quora.com/What-is-a-simple-explanation-of-higher-order-functions-and-callbacks-in-JavaScript|What is a simple explanation of higher order functions and callbacks in JavaScript?]]
+* [[https://jscomplete.com/javascript-higher-order-functions-callbacks|Higher Order Functions]]

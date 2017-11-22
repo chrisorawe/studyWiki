@@ -8,6 +8,7 @@ Creation-Date: 2017-11-09T20:03:29+00:00
 * [[+Javascript DOM|Javascript DOM]]
 * [[+Javascript event delegation|Javascript event delegation]]
 * [[+Javascript functions|Javascript functions]]
+* [[+Javascript higher-order functions|Javascript higher-order functions]]
 * [[+Javascript prototypal inheritance|Javascript prototypal inheritance]]
 * [[+Javascript scope|Javascript scope]]
 * [[+JSON|JSON]]
