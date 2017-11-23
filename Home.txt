@@ -2,7 +2,13 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2017-09-25T13:13:46+01:00
 
-====== StudyWiki ======
+====== Web Reading ======
+* [[https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c|A Guide to Becoming a Full-Stack Developer in 2017]]	<<<
+* [[https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f|Improving your Algorithms & Data Structure Skills]]
+* [[https://medium.com/coderbyte/the-5-hardest-code-challenges-for-beginners-e410da4474b|The 5 hardest code challenges for beginners]]
+* [[https://medium.com/coderbyte/importance-of-hash-tables-c429a2b523b8|The Importance of Hash Tables]]
+
+====== Study Topics ======
 
 ===== A =====
 * [[https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c|A Guide to Becoming a Full-Stack Developer in 2017]]
