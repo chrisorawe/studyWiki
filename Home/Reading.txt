@@ -11,7 +11,9 @@ Creation-Date: 2017-12-01T13:57:53+00:00
 * [[https://medium.com/coderbyte/importance-of-hash-tables-c429a2b523b8|The Importance of Hash Tables]]
 
 ===== Books to Read =====
-* [[https://smile.amazon.co.uk/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1512137524&sr=1-1|Code Complete (Developer Best Practices) 2nd Edition]]	<<<
+1. [[https://smile.amazon.co.uk/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1512137524&sr=1-1|Code Complete (Developer Best Practices) 2nd Edition]]	<<<
+2. [[https://www.amazon.co.uk/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B00B8USS14/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1512483571&sr=1-1&keywords=the+mythical+man+month|The Mythical Man-Month]]
+
 * Extream Ownership: How U.S.Navy SEALs Lead and Win
 * Scrum: The art of doing twice the work in half the time.
 * The 5 Second Rule
@@ -23,5 +25,5 @@ Creation-Date: 2017-12-01T13:57:53+00:00
 * Zero to One: Notes on Start Ups, or How to Build the Future
 * Make It Stick: The Science of Successful Learning
 * The Innovators: How a Group of Inventors, Hackers, Geniuses and Geeks Created the Digital Revolution
-* the tipping point how little things can make a big difference
+* The tipping point how little things can make a big difference
 
