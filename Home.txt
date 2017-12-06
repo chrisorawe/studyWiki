@@ -13,6 +13,9 @@ Creation-Date: 2017-09-25T13:13:46+01:00
 * [[+C:CSS Media Queries|CSS Media Queries]]
 * [[+C:CSS Pre-Processors|CSS Pre-Processors]]
 
+===== D =====
+* [[+D:Design patterns|Design patterns]]	<<<
+
 ===== F =====
 * [[+F:Function Composition|Function Composition]]
 
@@ -22,7 +25,7 @@ Creation-Date: 2017-09-25T13:13:46+01:00
 * [[+J:Javascript DOM|Javascript DOM]]
 * [[+J:Javascript event delegation|Javascript event delegation]]
 * [[+J:Javascript functions|Javascript functions]]
-* [[+J:Javascript higher-order functions|Javascript higher-order functions]]	<<<
+* [[+J:Javascript higher-order functions|Javascript higher-order functions]]
 * [[+J:Javascript prototypal inheritance|Javascript prototypal inheritance]]
 * [[+J:Javascript scope|Javascript scope]]
 * [[+J:JSON|JSON]]
