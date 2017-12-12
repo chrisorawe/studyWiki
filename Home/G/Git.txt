@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-12T08:42:14+00:00
+
+====== Git ======
+Created Tuesday 12 December 2017
+
+* [[https://en.wikipedia.org/wiki/Git|Git]]

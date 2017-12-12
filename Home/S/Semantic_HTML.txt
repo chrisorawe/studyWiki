@@ -10,6 +10,6 @@ Semantics is the study of the meanings of words and phrases in a language.
 Semantic elements = elements with a meaning.
 
 ===== Links =====
-* [[https://en.wikipedia.org/wiki/Semantic_HTML|Wikipedia Semantic HTML]]
-* [[https://www.w3schools.com/html/html5_semantic_elements.asp|W3schools HTML5 Semantic Elements]]
-* [[https://www.thoughtco.com/why-use-semantic-html-3468271|Why Use Semantic HTML?]]
+[*] [[https://en.wikipedia.org/wiki/Semantic_HTML|Wikipedia Semantic HTML]]
+[*] [[https://www.w3schools.com/html/html5_semantic_elements.asp|W3schools HTML5 Semantic Elements]]
+[*] [[https://www.thoughtco.com/why-use-semantic-html-3468271|Why Use Semantic HTML?]]

@@ -23,5 +23,5 @@ Total element height = height + top padding + bottom padding + top border + bott
 
 --------------------
 
-* [[https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model|Introduction to the CSS box model]]
-* [[https://www.w3schools.com/css/css_boxmodel.asp|CSS Box Model]]
+[*] [[https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model|Introduction to the CSS box model]]
+[*] [[https://www.w3schools.com/css/css_boxmodel.asp|CSS Box Model]]

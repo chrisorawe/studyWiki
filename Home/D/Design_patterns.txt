@@ -5,19 +5,19 @@ Creation-Date: 2017-12-06T08:32:50+00:00
 ====== Design patterns ======
 Created Wednesday 06 December 2017
 
-* [[https://sourcemaking.com/design_patterns|Design Patterns]]
-	* Creational design patterns
-		* [[https://sourcemaking.com/design_patterns/abstract_factory|Abstract Factory Design Pattern]]	<<<
-		* [[https://sourcemaking.com/design_patterns/builder|Builder Design Pattern]]
-		* [[https://sourcemaking.com/design_patterns/factory_method|Factory Method Design Pattern]]
-		* [[https://sourcemaking.com/design_patterns/object_pool|Object Pool Design Pattern]]
-		* [[https://sourcemaking.com/design_patterns/prototype|Prototype Design Pattern]]
-		* [[https://sourcemaking.com/design_patterns/singleton|Singleton Design Pattern]]
-	* Structural patterns
-	* Behavioral patterns
-* [[https://en.wikipedia.org/wiki/Software_design_pattern|Software design pattern]]
-* [[http://www.dofactory.com/net/design-patterns|.NET Design Patterns]]
-* [[http://www.oodesign.com/|Design Patterns]]
-* [[https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm|Design Pattern - Overview]]
-* [[http://www.geeksforgeeks.org/software-design-patterns/|Software Design Patterns]]
-* [[https://refactoring.guru/design-patterns|Design Patterns]]
+[>] [[https://sourcemaking.com/design_patterns|Design Patterns]]
+	[>] Creational design patterns
+		[>] [[https://sourcemaking.com/design_patterns/abstract_factory|Abstract Factory Design Pattern]]
+		[ ] [[https://sourcemaking.com/design_patterns/builder|Builder Design Pattern]]
+		[ ] [[https://sourcemaking.com/design_patterns/factory_method|Factory Method Design Pattern]]
+		[ ] [[https://sourcemaking.com/design_patterns/object_pool|Object Pool Design Pattern]]
+		[ ] [[https://sourcemaking.com/design_patterns/prototype|Prototype Design Pattern]]
+		[ ] [[https://sourcemaking.com/design_patterns/singleton|Singleton Design Pattern]]
+	[ ] Structural patterns
+	[ ] Behavioral patterns
+[>] [[https://en.wikipedia.org/wiki/Software_design_pattern|Software design pattern]]
+[ ] [[http://www.dofactory.com/net/design-patterns|.NET Design Patterns]]
+[ ] [[http://www.oodesign.com/|Design Patterns]]
+[ ] [[https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm|Design Pattern - Overview]]
+[ ] [[http://www.geeksforgeeks.org/software-design-patterns/|Software Design Patterns]]
+[ ] [[https://refactoring.guru/design-patterns|Design Patterns]]

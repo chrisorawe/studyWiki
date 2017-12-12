@@ -13,10 +13,10 @@ To use a CSS preprocessor, you must install a CSS compiler on your web server.
 
 --------------------
 
-* [[https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus|An Introduction to CSS Pre-Processors: SASS, LESS and Stylus]]
-* [[https://www.sitepoint.com/6-current-options-css-preprocessors/|6 Current Options for CSS Preprocessors]]
-* [[https://www.urbaninsight.com/2012/04/12/ten-reasons-you-should-be-using-css-preprocessor|Ten Reasons You Should Be Using a CSS Preprocessor]]
-* [[https://adamsilver.io/articles/the-disadvantages-of-css-preprocessors/|The disadvantages of CSS preprocessors]]
-* [[https://blog.codepen.io/documentation/editor/using-css-preprocessors/|Using CSS Preprocessors]]
-* [[http://vanseodesign.com/css/css-preprocessors/|Sass And LESS: An Introduction To CSS Preprocessors]]
-* [[https://www.codeschool.com/beginners-guide-to-web-development/css-preprocessors-and-frameworks|CSS Preprocessors and Frameworks]]
+[*] [[https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus|An Introduction to CSS Pre-Processors: SASS, LESS and Stylus]]
+[*] [[https://www.sitepoint.com/6-current-options-css-preprocessors/|6 Current Options for CSS Preprocessors]]
+[*] [[https://www.urbaninsight.com/2012/04/12/ten-reasons-you-should-be-using-css-preprocessor|Ten Reasons You Should Be Using a CSS Preprocessor]]
+[*] [[https://adamsilver.io/articles/the-disadvantages-of-css-preprocessors/|The disadvantages of CSS preprocessors]]
+[*] [[https://blog.codepen.io/documentation/editor/using-css-preprocessors/|Using CSS Preprocessors]]
+[*] [[http://vanseodesign.com/css/css-preprocessors/|Sass And LESS: An Introduction To CSS Preprocessors]]
+[*] [[https://www.codeschool.com/beginners-guide-to-web-development/css-preprocessors-and-frameworks|CSS Preprocessors and Frameworks]]
