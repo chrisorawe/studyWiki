@@ -5,6 +5,7 @@ Creation-Date: 2017-09-25T13:13:46+01:00
 ====== Study Topics ======
 
 ===== A =====
+[x] [[+A:Abstract data type|Abstract data type]]
 [ ] [[+A:Agile|Agile]]
 [x] [[+A:Algorithm|Algorithm]]
 
@@ -40,6 +41,10 @@ Creation-Date: 2017-09-25T13:13:46+01:00
 ===== S =====
 [ ] [[+S:SCRUM|SCRUM]]
 [*] [[+S:Semantic HTML|Semantic HTML]]	
+
+===== U =====
+[ ] [[+U:Unified Modeling Language|Unified Modeling Language]]
+
 
 ====== Other ======
 
