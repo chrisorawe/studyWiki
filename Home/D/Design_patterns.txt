@@ -16,7 +16,8 @@ Created Wednesday 06 December 2017
 	[ ] Structural patterns
 	[ ] Behavioral patterns
 [*] [[https://en.wikipedia.org/wiki/Software_design_pattern|Software design pattern]]
-[>] [[http://www.oodesign.com/|Design Patterns]]
-[>] [[https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm|Design Pattern - Overview]]
-[ ] [[http://www.geeksforgeeks.org/software-design-patterns/|Software Design Patterns]]
+[*] [[http://www.oodesign.com/|Design Patterns]]
+[*] [[https://www.tutorialspoint.com/design_pattern/design_pattern_overview.htm|Design Pattern - Overview]]
+[>] [[http://www.geeksforgeeks.org/software-design-patterns/|Software Design Patterns]]
 [ ] [[https://refactoring.guru/design-patterns|Design Patterns]]
+[ ] [[http://www.c-sharpcorner.com/UploadFile/bd5be5/design-patterns-in-net/|C# Design Patterns in .Net]]
