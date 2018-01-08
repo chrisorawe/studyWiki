@@ -6,12 +6,14 @@ Creation-Date: 2017-12-01T13:57:53+00:00
 
 ===== Web Reading =====
 [>] [[https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c|A Guide to Becoming a Full-Stack Developer in 2017]]
+[ ] [[https://teachyourselfcs.com/|Teach Yourself Computer Science]]
 [ ] [[https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f|Improving your Algorithms & Data Structure Skills]]
 [ ] [[https://medium.com/coderbyte/the-5-hardest-code-challenges-for-beginners-e410da4474b|The 5 hardest code challenges for beginners]]
 [ ] [[https://medium.com/coderbyte/importance-of-hash-tables-c429a2b523b8|The Importance of Hash Tables]]
 
 ===== Books to Read =====
 [>] [[https://smile.amazon.co.uk/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1512137524&sr=1-1|Code Complete (Developer Best Practices) 2nd Edition]]
+[ ] [[https://mitpress.mit.edu/sicp/full-text/book/book.html|Structure and Interpretation of Computer Programs]]
 [ ] [[https://www.amazon.co.uk/Mythical-Man-Month-Software-Engineering-Anniversary-ebook/dp/B00B8USS14/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1512483571&sr=1-1&keywords=the+mythical+man+month|The Mythical Man-Month]]
 [ ] [[https://www.amazon.co.uk/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=|Design Patterns: Elements of Reusable Object-Oriented Software]]
 [ ] [[https://www.amazon.co.uk/Server-Execution-Plans-Grant-Fritchey-ebook/dp/B00CXWRFQA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=|SQL Server Execution Plans]]
